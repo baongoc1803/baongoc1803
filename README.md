@@ -7,7 +7,7 @@
 
 - 🎓 Recent graduate in **Information Technology**
 - 💼 Looking for roles in **Business Analysis**, **Software Development**, or **IT Internships**
-- 💬 Ask me about: `C#`, `SQL`, `WinForms`, `HTML/CSS/Bootstrap`, `System Analysis`
+- 💬 Ask me about: `C#`, `SQL`, `WinForms`, `HTML/CSS/Bootstrap`
 - 🌱 Currently learning: `Git`, `Agile`, `UML`, `BA Tools (draw.io, Excel, SQL)`
 - 📜 **TOEIC certificate**
 - 📫 Reach me at: `baongocnguyenthi1803@gmail.com`
