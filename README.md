@@ -17,7 +17,7 @@
 
 ## 🔨 Tech Stack
 
-- 💻 Languages: `C#`, `SQL`, `HTML`, `CSS`, `JavaScript (basic)`,  `PHP`, 
+- 💻 Languages: `C#`, `SQL`, `HTML`, `CSS`, `JavaScript (basic)`,  `PHP`
 - 🖥️ Frameworks:  `.NET (Framework 4.7.2)`, `WinForms`, `Bootstrap 5`
 - 🗃️ Database: `SQL Server`, `MySQL`, `NoSQL`
 - ⚙️ Tools: `Visual Studio`, `Git`, `Excel`, `PowerPoint`, `draw.io`
