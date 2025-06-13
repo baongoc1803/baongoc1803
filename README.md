@@ -6,7 +6,7 @@
 ## 👩‍🎓 About Me
 
 - 🎓 Recent graduate in **Information Technology**
-- 💼 Looking for roles in **Business Analysis**, **Software Development**, or **IT Internships**
+- 💼 Looking for roles in **Software Development**, or **IT Internships**
 - 💬 Ask me about: `C#`, `SQL`, `WinForms`, `HTML/CSS/Bootstrap`
 - 🌱 Currently learning: `Git`, `Agile`, `UML`, `BA Tools (draw.io, Excel, SQL)`
 - 📜 **TOEIC certificate**
@@ -28,9 +28,9 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [📚 QL_NhaSach](https://github.com/baongoc1803/QL_NhaSach) | Bookstore management with login, book CRUD, and revenue tracking | C#, WinForms, SQL |
+| [📚 QL_NhaSach](https://github.com/baongoc1803/QL_NhaSach) |Team project (4 members) Bookstore management with login, book CRUD, and revenue tracking | C#, WinForms, SQL |
 | [🧶 Len Shop](https://github.com/baongoc1803/LT_MaNguonMo) | Web-based shop to view and manage wool products, includes cart and user auth | HTML, CSS, JS, Bootstrap |
-| [👥 QL_NhanSu](https://github.com/baongoc1803/ql_nhansu) | Human resource management with login, CRUD for employees, departments, and positions | C#, WinForms, SQL |
+| [👥 QL_NhanSu](https://github.com/baongoc1803/ql_nhansu) |Team project (3 members)- Human resource management with login, CRUD for employees, departments, and positions | C#, WinForms, SQL |
 | [💼 DoAnPTPMUDTM](https://github.com/dinhthituyetchinh/DoAnPTPMUDTM) | Team project (3 members) – Windows Forms app for managing employees & departments with full CRUD and secure login | C#, WinForms, SQL Server|
 | [🌐 portal-ttcskh](https://github.com/baongoc1803/portal-ttcskh) | Major academic project – Customer Service Portal with user roles, ticket management, and admin dashboard | PHP(CodeIgnter),MySQL, Jquery |
 
